@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T04:59:49.201-08:00"}
+{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T05:02:46.680-08:00"}
 ---
 
 
@@ -61,7 +61,7 @@ these are my personal notes, publicly shared.
 >
 
 
-<footer>
+
 ---
 
 <a href="https://michaelsyang.com">Michael S. Yang</a> © 2023
@@ -71,5 +71,3 @@ Made with open-source tools
 - [Digital Garden](https://dg-docs.ole.dev/) for publishing
 - [Syncthing](https://syncthing.net/) for well, syncing
 - and [Github](https://github.com/michaelsyang) for hosting
-
-</footer>
