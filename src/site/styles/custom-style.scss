@@ -1,14 +1,27 @@
-
-
-/* Font */
+/* Custom Styling */
 
 @import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
 body {  
+
+/* Fonts */
+
   font-family: 'Cousine', monospace !important;
   --code: rgb(255, 79, 0) !important; /* Int'l Orange HEX: #FF4F00 */
   --h1-color: rgb(255, 118, 57) !important;
   --h2-color: rgb(255, 118, 57) !important;
   --h3-color: rgb(255, 118, 57) !important;
+
+  --color-p1: rgb(255, 79, 0);
+  --color-p2: rgb(255, 118, 57);
+  --color-p3: rgb(255, 157, 113);
+
+/* Graphs */
+
+  --graph-node: var(--color-p2);
+  --graph-node-unresolved: var(--color-p2);
+  --graph-node-focused: var(--color-p1);
+  --graph-line: var(--color-p3);
+
 }
 
 /* Hyperlinks */
