@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T04:16:36.916-08:00"}
+{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T04:55:11.601-08:00"}
 ---
 
 
@@ -30,13 +30,13 @@ these are my personal notes, publicly shared.
 > 
 > > [!FAQ]- what is it really about, though?
 > > 
-> > more formally, it's an attempt at Personal Knowledge Management (PKM), based on the Zettelkasten, a method developed by a german social scientist who published 50 books and 600 articles using it.
+> > more formally, it's an attempt at [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM), based on the [Zettelkasten](https://zettelkasten.de/introduction/#a-zettelkasten-is-a-personal-tool-for-thinking-and-writing), a method developed by a german social scientist who published 50 books and 600 articles using it.
 > > 
 > > basically, the idea of Zettelkasten is to write atomic notes, tag them, and find non-linear patterns – linking the notes to do better thinking, or 'linking the thinking'.
 > > 
 > > we're all drowning in thoughts, content, and information. this is an attempt to learn how to swim.
 > > 
-> > building on that, Molecular Notes helped me categorize notes as original observations (molecules), learned concepts (atoms), and their references (resources). PARA Method taught me that 4 is the maximum number of buckets to hold in your brain comfortably, and that those 4 could be projects, areas, resources, and archive.
+> > building on that, [Molecular Notes](https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/) helped me categorize notes as original observations (molecules), learned concepts (atoms), and their references (resources). [PARA Method](https://fortelabs.com/blog/para/) taught me that 4 is the maximum number of buckets to hold in your brain comfortably, and that those 4 could be projects, areas, resources, and archive.
 > > 
 
 >[!FAQ]- what do i do?
@@ -62,21 +62,10 @@ these are my personal notes, publicly shared.
 
 ---
 
-````col
-```col-md
-Made with open-source tools:
+<a href="https://michaelsyang.com">Michael S. Yang</a> © 2023
+
+Made with open-source tools
 - [Obisidian](https://obsidian.md) as the foundation
 - [Digital Garden](https://dg-docs.ole.dev/) for publishing
 - [Syncthing](https://syncthing.net/) for well, syncing
-- and [Github](https://github.com/michaelsyang) for hosting 
-```
-```col-md
-Say hi
-```
-===
-```col-md
-Update log:
-- 231231-Sun 03:46AM-PT
-```
-````
-
+- and [Github](https://github.com/michaelsyang) for hosting
