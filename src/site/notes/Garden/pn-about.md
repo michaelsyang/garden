@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T05:02:46.680-08:00"}
+{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T15:08:28.753-08:00"}
 ---
 
 
@@ -7,13 +7,13 @@
 
 these are my personal notes, publicly shared.
 
-> [!FAQ]- what is this?
+> [!FAQ]+ what is this?
 > 
-> some of my personal notes.
-> notes on things i've read, watched, heard, `sources`
-> notes on things i've seen, thought, felt, `scribbles`
-> notes on things i've learned from others, `summaries`
-> and lists of notes, curated as i see fit. `sets`
+> they're some of my personal notes.
+> notes on things i've read, watched, heard, [`sources`]([[Garden/stream/pn-sources\|pn-sources]])
+> notes on things i've seen, thought, felt, [`scribbles`]([[Garden/stream/pn-scribbles\|pn-scribbles]])
+> notes on things i've learned from others, [`stars`]([[Garden/stream/pn-stars\|pn-stars]])
+> and lists of notes, curated as i see fit. [`sets`]([[pn-sets\|pn-sets]])
 > 
 > Public Notes, Second Brain, and Digital Gardens are all similar concepts inspired by something called Zettelkasten Method. 
 > 
