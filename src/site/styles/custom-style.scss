@@ -6,6 +6,8 @@ body {
 /* Fonts */
 
   font-family: 'Cousine', monospace !important;
+  --font-default: 'Cousine', monospace !important;
+
   --code: rgb(255, 79, 0) !important; /* Int'l Orange HEX: #FF4F00 */
   --h1-color: rgb(255, 118, 57) !important;
   --h2-color: rgb(255, 118, 57) !important;
@@ -58,7 +60,7 @@ a:active {
   border: none;
   padding: 10px;
   margin: 10px 10px 10px 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.25);
   border-radius: 13px;
 }
 
