@@ -1,32 +1,49 @@
 ---
-{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2023-12-31T15:08:28.753-08:00"}
+{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["#pkm","gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2024-01-04T19:30:35.632-08:00"}
 ---
 
 
-### welcome to michael's public notes
+# 👋 welcome
 
 these are my personal notes, publicly shared.
 
-> [!FAQ]+ what is this?
+
+
+
+
+why do this?
+
+how do i start?
+
+
+- [`sources`]([[Garden/stream/pn-sources\|pn-sources]]) are things i've read, watched, heard
+- [`scribbles`]([[Garden/stream/pn-scribbles\|pn-scribbles]]) are things i've seen thought, felt, noticed 
+- [`stars`]([[Garden/stream/pn-stars\|pn-stars]]) notes on things i've learned from others
+- [`sets`]([[pn-sets\|pn-sets]])
+
+
+you can `search` for anything (`Cmd/Ctrl + K`)
+
+
+these are public notes
+
+> [!FAQ]- what is this?
 > 
-> they're some of my personal notes.
-> notes on things i've read, watched, heard, [`sources`]([[Garden/stream/pn-sources\|pn-sources]])
-> notes on things i've seen, thought, felt, [`scribbles`]([[Garden/stream/pn-scribbles\|pn-scribbles]])
-> notes on things i've learned from others, [`stars`]([[Garden/stream/pn-stars\|pn-stars]])
-> and lists of notes, curated as i see fit. [`sets`]([[pn-sets\|pn-sets]])
-> 
-> Public Notes, Second Brain, and Digital Gardens are all similar concepts inspired by something called Zettelkasten Method. 
+> Public Notes, Second Brain, and Digital Gardens are all similar concepts inspired by the Zettelkasten Method.
 > 
 > essentially, i capture thoughts as notes, then try to find patterns between notes. linking notes to do better thinking – or 'linking the thinking'. sharing it along the way to curate content, invite engagement, declutter your mind a little bit. 
 > 
 > since it's personal, i hope you kindly excuse the errors, brevity, informalities, and insufferability.
 >  
 
-> [!FAQ]+ why do this?
+> [!FAQ]- how does this work?
+> 
+
+> [!FAQ]+ why are you doing this?
 > 
 > the goal is to make some use out of all the information i'm drowning
-> in. to make some sense out of it, or at least clear it out of my
-> mind, and share it along the way.
+in. to make some sense out of it, or at least clear it out of my
+mind, and share it along the way.
 > 
 > > [!FAQ]- what is it really about, though?
 > > 
@@ -60,14 +77,12 @@ these are my personal notes, publicly shared.
 >[!FAQ]- who are you?
 >
 
+> [!FAQ]- how did you make this?
+> 
+> With open-source tools! [Obisidian](https://obsidian.md) as the foundation, [Digital Garden](https://dg-docs.ole.dev/) for publishing, [Github](https://github.com/michaelsyang) for hosting, [Vercel](https://vercel.app) for deploying, and [Syncthing](https://syncthing.net/) for well, syncing.
 
 
 ---
 
-<a href="https://michaelsyang.com">Michael S. Yang</a> © 2023
-
-Made with open-source tools
-- [Obisidian](https://obsidian.md) as the foundation
-- [Digital Garden](https://dg-docs.ole.dev/) for publishing
-- [Syncthing](https://syncthing.net/) for well, syncing
-- and [Github](https://github.com/michaelsyang) for hosting
+Made by <a href="https://michaelsyang.com">Michael S. Yang</a> © 2023
+with open-source tools [Obisidian](https://obsidian.md) and [Digital Garden](https://dg-docs.ole.dev/) for publishing
