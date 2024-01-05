@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"sources/George's Letter.md","permalink":"/sources/george-s-letter/","title":"George's Lette","tags":["death","grief"],"created":"2024-01-04T23:52:31.438-08:00","updated":"2024-01-05T00:17:49.943-08:00"}
+{"dg-publish":true,"dg-path":"sources/George's Letter.md","permalink":"/sources/george-s-letter/","title":"George's Letter","tags":["death","grief"],"created":"2024-01-04T23:52:31.438-08:00","updated":"2024-01-05T00:21:58.014-08:00"}
 ---
 
 
