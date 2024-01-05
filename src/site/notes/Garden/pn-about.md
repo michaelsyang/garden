@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["#pkm","gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2024-01-04T19:30:35.632-08:00"}
+{"dg-publish":true,"dg-path":"\"Published::\"","permalink":"//","title":"👋","tags":["gardenEntry"],"created":"2023-12-15T22:14:39.568-08:00","updated":"2024-01-04T21:51:04.916-08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 these are my personal notes, publicly shared.
 
-
+annotated bookmarks
 
 
 
@@ -16,10 +16,10 @@ why do this?
 how do i start?
 
 
-- [`sources`]([[Garden/stream/pn-sources\|pn-sources]]) are things i've read, watched, heard
-- [`scribbles`]([[Garden/stream/pn-scribbles\|pn-scribbles]]) are things i've seen thought, felt, noticed 
-- [`stars`]([[Garden/stream/pn-stars\|pn-stars]]) notes on things i've learned from others
-- [`sets`]([[pn-sets\|pn-sets]])
+- [sources]([[stream/pn-sources\|pn-sources]]) are things i've read, watched, heard
+- [scribbles]([[Garden/_settings/templates/PN-scribbles\|pn-scribbles]]) are things i've seen thought, felt, noticed 
+- [stars]([[Garden/_settings/templates/PN-stars\|pn-stars]]) notes on things i've learned from others
+- [`sets]([[Garden/_settings/templates/PN-sets\|pn-sets]])
 
 
 you can `search` for anything (`Cmd/Ctrl + K`)
